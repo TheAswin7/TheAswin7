@@ -8,7 +8,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">💻 Aspiring Software Engineer<br><br>🌱 Currently Learning<br>   • Java<br>   • DSA<br>   • Django<br>   • AWS<br><br>🚀 Building real-world projects to strengthen my development skills<br><br>🧩 Passionate about problem-solving and continuous learning<br><br>🤝 Open to internships, collaboration, and open-source contributions<br><br>🎯 Turning ideas into impactful software</h5>
+<h5 data-importer="text" align="left">💻 Aspiring Software Engineer<br><br>🌱 Currently Learning<br>   • Java<br>   • DSA<br>   • Django<br>   • AWS<br><br>🚀 Building real-world projects to strengthen my development skills<br><br>🧩 Passionate about problem-solving and continuous learning<br><br>🤝 Open to internships, collaboration, and open-source contributions<br><br>🎯 Turning ideas into impactful software</h5>
 
 ###
 
