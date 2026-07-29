@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N0cDg2ZnQzZmFva2F4ZXU3eWMwaTZhdXd2YXFoOTUwdmQ4amphbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+
 
 ###
 <h2 align="center">🛠️ Tech Stack</h2>
