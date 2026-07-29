@@ -1,6 +1,6 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://github.com/TheAswin7/TheAswin7/blob/main/assets/cover.png?raw=true"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheAswin7/TheAswin7/main/assets/cover.png" width="100%" alt="Banner">
+</p>
 
 ###
 
