@@ -53,7 +53,7 @@
 
 A modern full-stack application.
 
-<a href="https://github.com/TheAswin7/FabScence">
+<a href="https://github.com/TheAswin7/Fabsence">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
