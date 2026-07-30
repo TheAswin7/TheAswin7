@@ -45,15 +45,33 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+
+### 📚 FabScence
+
+A modern full-stack application.
+
 <a href="https://github.com/TheAswin7/FabScence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAswin7&repo=FabScence&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</td>
+
+<td align="center">
+
+### 🌐 New Portfolio
+
+My personal portfolio website.
+
 <a href="https://github.com/TheAswin7/new_portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAswin7&repo=new_portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 ###
 
